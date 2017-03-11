@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "rgb_keypad_lcd", "rgb_keypad_lcd\rgb_keypad_lcd.cproj", "{6757328D-8A1B-4E1B-A530-FEA9222A8781}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6757328D-8A1B-4E1B-A530-FEA9222A8781}.Debug|AVR.ActiveCfg = Debug|AVR
+		{6757328D-8A1B-4E1B-A530-FEA9222A8781}.Debug|AVR.Build.0 = Debug|AVR
+		{6757328D-8A1B-4E1B-A530-FEA9222A8781}.Release|AVR.ActiveCfg = Release|AVR
+		{6757328D-8A1B-4E1B-A530-FEA9222A8781}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
