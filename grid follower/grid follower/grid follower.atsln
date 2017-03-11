@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "grid follower", "grid follower\grid follower.cproj", "{C20FB6C1-6555-414C-8B8A-A2087A9D3632}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C20FB6C1-6555-414C-8B8A-A2087A9D3632}.Debug|AVR.ActiveCfg = Debug|AVR
+		{C20FB6C1-6555-414C-8B8A-A2087A9D3632}.Debug|AVR.Build.0 = Debug|AVR
+		{C20FB6C1-6555-414C-8B8A-A2087A9D3632}.Release|AVR.ActiveCfg = Release|AVR
+		{C20FB6C1-6555-414C-8B8A-A2087A9D3632}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
