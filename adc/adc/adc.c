@@ -1,7 +1,7 @@
 #include<avr/io.h>
 #include<util/delay.h>
 
-#define RS PD0
+#define RS PC0 //added new port
 #define RW PD1
 #define EN PD2
 #define LCD PORTD
